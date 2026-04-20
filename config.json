@@ -26,26 +26,26 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Levi Ackerman",
-    "PREFIX": "+",
+    "PREFIX": "/",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "100090400922934",
         "",
         "",
         "",
+        "",100071765687610
         "",
         "",
         ""
     ],
     "GOD": [
-        "100090400922934",
+        "100071765687610",
         "",
         ""
     ],
     "ADMINBOT": [
-        "100090400922934",
+        "100071765687610",
         "",
         "",
         "",
@@ -58,7 +58,7 @@
     "OWNER": "Sazid Moontasir ",
     "AGE": "17",
     "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://https://www.facebook.com/100090400922934",
+    "FACEBOOK": "https://https://www.facebook.com/100071765687610",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye ",
